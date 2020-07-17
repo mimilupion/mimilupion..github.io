@@ -1,1 +1,21 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Highlights
+email: youremailaddress@gmail.com
+description: The Jekyll version of the Highlights theme by HTML5 UP.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Social settings
+500px_url:
+facebook_url: https://facebook.com
+github_url:
+gitlab_url: https://fernandocejas.com
+googleplus_url: https://fernandocejas.com
+instagram_url: https://fernandocejas.com
+linkedin_url: https://fernandocejas.com
+pinterest_url:
+slack_url:
+twitter_url: https://fernandocejas.com
+
+# Build settings
+markdown: kramdown
